@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	netboxclient "github.com/fbreckle/go-netbox/netbox/client"
+	netboxclient "github.com/CppBunny/go-netbox/netbox/client"
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/goware/urlx"
 	log "github.com/sirupsen/logrus"

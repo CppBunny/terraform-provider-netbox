@@ -3,7 +3,7 @@ package netbox
 import (
 	"testing"
 
-	"github.com/fbreckle/go-netbox/netbox/models"
+	"github.com/CppBunny/go-netbox/netbox/models"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,11 +1,11 @@
-module github.com/e-breuninger/terraform-provider-netbox
+module github.com/CppBunny/terraform-provider-netbox
 
 go 1.21
 
 toolchain go1.21.3
 
 require (
-	github.com/fbreckle/go-netbox v0.0.0-20240517155930-7b96c5ef0e3f
+	github.com/CppBunny/go-netbox v0.0.0-20240607123706-884e19f682e5
 	github.com/fbreckle/terraform-plugin-docs v0.0.0-20220812121758-a828466500d3
 	github.com/go-openapi/runtime v0.28.0
 	github.com/go-openapi/strfmt v0.23.0

@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/fbreckle/go-netbox/netbox/client/status"
+	"github.com/CppBunny/go-netbox/netbox/client/status"
 	"github.com/stretchr/testify/assert"
 )
 

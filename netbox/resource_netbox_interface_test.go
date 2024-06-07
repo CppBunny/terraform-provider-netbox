@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/fbreckle/go-netbox/netbox/client"
-	"github.com/fbreckle/go-netbox/netbox/client/virtualization"
+	"github.com/CppBunny/go-netbox/netbox/client"
+	"github.com/CppBunny/go-netbox/netbox/client/virtualization"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/terraform"
 	log "github.com/sirupsen/logrus"

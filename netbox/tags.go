@@ -3,9 +3,9 @@ package netbox
 import (
 	"fmt"
 
-	"github.com/fbreckle/go-netbox/netbox/client"
-	"github.com/fbreckle/go-netbox/netbox/client/extras"
-	"github.com/fbreckle/go-netbox/netbox/models"
+	"github.com/CppBunny/go-netbox/netbox/client"
+	"github.com/CppBunny/go-netbox/netbox/client/extras"
+	"github.com/CppBunny/go-netbox/netbox/models"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )

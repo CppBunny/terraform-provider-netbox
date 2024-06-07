@@ -5,8 +5,8 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/fbreckle/go-netbox/netbox/client"
-	"github.com/fbreckle/go-netbox/netbox/client/extras"
+	"github.com/CppBunny/go-netbox/netbox/client"
+	"github.com/CppBunny/go-netbox/netbox/client/extras"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
 
